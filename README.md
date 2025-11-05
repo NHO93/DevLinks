@@ -26,4 +26,3 @@ O site apresenta seus principais links de redes sociais e projetos de forma simp
 - 🎨 Design moderno e limpo inspirado no Figma da Rocketseat
 
 ---
-# DevLinks
